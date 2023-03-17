@@ -645,7 +645,3 @@ export default defineComponent({
   },
 });
 </script>
-
-<style lang="css">
-@import './datepicker.css';
-</style>
